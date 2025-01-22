@@ -1,7 +1,7 @@
 ![logo](https://github.com/anup-kumar-bit/anup-kumar-bit/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Anup kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="430px" height="300px" src="https://github.com/anup-kumar-bit/anup-kumar-bit/blob/main/img.jpg">
+<img align="right" width="520px" height="300px" src="https://github.com/anup-kumar-bit/anup-kumar-bit/blob/main/web.png">
 > 
 - 🔭 I’m currently working on **College ERP Portal**
 
