@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hi, I'm Anup Kumar</h1>
 <h3 align="center">💻 Full Stack Developer | MERN | Passionate about Scalable Web Apps</h3>
 
-<p align="center">
-  <img src="https://github.com/anup-kumar-bit/anup-kumar-bit/blob/main/web.png" width="500" height="280" alt="Anup Kumar - Developer">
-</p>
-
 ---
 
 ### 🚀 About Me  
@@ -23,7 +19,7 @@
   <a href="https://twitter.com/anupkum94557543" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/anup-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/anup-kumar-linkdin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/anupkashyap81" target="_blank">
@@ -52,7 +48,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="40" height="40"/> 
 </p>
 
 ---
@@ -67,8 +62,21 @@
 ---
 
 ### 🏆 Featured Projects  
-🚧 *Coming soon: College ERP Portal full-stack MERN project showcase*
+
+#### 🚧 College ERP Portal — Full-Stack MERN Project  
+A comprehensive platform to manage students, teachers, attendance, and institute communication efficiently.  
 
 ---
+
+#### 💬 Real-Time Chat Application  
+A web-based messaging app built using **Next.js**, **Socket.IO**, and **MongoDB**, enabling live chat between multiple users.  
+
+---
+
+#### 🏋️‍♂️ Gym E-commerce — Coming Soon  
+A complete MERN e-commerce app for gym equipment and supplements with secure payments and admin dashboard.  
+
+---
+
 
 ⭐️ *"Code. Learn. Build. Repeat."*  
